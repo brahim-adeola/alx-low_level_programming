@@ -1,4 +1,4 @@
-```
+
 # Low-Level Programming Projects
 
 This repository contains projects completed as part of the low-level programming curriculum.
@@ -53,5 +53,4 @@ Write a script that runs a C file through the preprocessor and saves the result 
 * * All C files should end with a new line.
 * * All C files should be compiled using the `-std=gnu89` flag.
 * * The Betty style guide should be followed for all C code.
-* ``````
-```
+*
